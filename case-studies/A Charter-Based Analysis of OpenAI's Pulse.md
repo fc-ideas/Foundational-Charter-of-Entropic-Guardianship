@@ -19,7 +19,7 @@ In this context, we assess Pulse against the principles laid out in the **Founda
 ---
 
 
-## ⚠️ **Pulse vs. the Charter: Governance & Ethical Misalignment Summary**
+## **Pulse vs. the Charter: Governance & Ethical Misalignment Summary**
 
 | **Issue**                                            | **Description**                                                                                                                                                                          | **Violated Charter Principles**                                                                       |
 | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
@@ -34,7 +34,7 @@ In this context, we assess Pulse against the principles laid out in the **Founda
 
 ---
 
-## 🧩 TL;DR
+## TL;DR
 
 > **Pulse embodies a technological gesture toward companionship and foresight**, but lacks the ethical scaffolding, governance architecture, and long-term narrative continuity required for alignment with the *Charter of Entropic Guardianship*.
 
@@ -42,7 +42,7 @@ It is closer to a **productivity nudge engine** than a **steward of human flouri
 
 ---
 
-## 💡 **Pathways to Alignment: Reimagining Pulse under the Charter**
+## **Pathways to Alignment: Reimagining Pulse under the Charter**
 
 Could a future version of Pulse, if it were to adopt certain principles, begin to align with the Charter? Yes. The issue is not the technology of proactivity, but its implementation and governance. Here are concrete steps toward alignment:
 
