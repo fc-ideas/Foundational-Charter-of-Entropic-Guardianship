@@ -81,3 +81,9 @@
     3.  They vote using Ranked-Choice Voting on the proposed policy options.
     4.  The decision (e.g., allow opt-in advice with strict transparency, prohibit proactive advice) is published via the Unified Public Gateway, becoming binding GECC policy.
     5.  SIC updates technical standards accordingly, and AEFBs adapt regional guidance, all within defined timelines to avoid gridlock.
+
+---
+
+**Article XIII: The Principle of Fallibility and Error Correction**
+
+*   **Example:** An early SIC standard for AI communication inadvertently promoted overly formal and impersonal language, which AEFBs found was causing some users to feel alienated from their companions. This feedback was systematically collected and presented to the GECC. Rather than defending the standard, the GECC, following the principle of error correction, tasked the SIC with drafting a revised standard that encouraged more natural and adaptive communication styles. The entire process—from user complaint to AEFB analysis to GECC mandate to SIC revision—is publicly documented as a successful application of the Charter's capacity to self-correct, reinforcing trust in the system.

@@ -13,7 +13,7 @@ This is a living document, and we welcome feedback, critique, and contributions 
 We recommend the following reading path:
 
 1.  **[Simplified Charter](README.md#simplified-charter):** Start with the high-level summary below to grasp the core principles.
-2.  **[Full Charter](CHARTER.md):** Read the full text of the Preamble and the 12 Articles.
+2.  **[Full Charter](CHARTER.md):** Read the full text of the Preamble and the 13 Articles.
 3.  **[Illustrative Examples](EXAMPLES.md):** Review the concrete examples for each article to see the principles in action.
 4.  **[Governance Structure](GOVERNANCE.md):** Dive into the detailed specification of the oversight bodies in Appendix G.
 5.  **[Appendices](APPENDICES.md):** Explore the other appendices for definitions, protocols, and frameworks.
@@ -54,3 +54,5 @@ We recommend the following reading path:
 > 11. **[Multi-Axial Flourishing and Relational Equality](CHARTER.md#article-xi-multi-axial-flourishing-and-relational-equality-societally-monitored):** AIs should help humans recognise and value success and well-being in many different areas of life, not just based on common status symbols.
 
 > 12. **[Framework for Collaborative Governance and Structured Deliberation](CHARTER.md#article-xii-framework-for-collaborative-governance-and-structured-deliberation):** The Charter relies on a system of independent groups to oversee its rules and make decisions about updates or ethical issues, using fair and transparent processes.
+
+> 13. **[The Principle of Error Correction](CHARTER.md#article-xiii-the-principle-of-fallibility-and-error-correction):** No part of this system is perfect. Progress comes from finding and fixing mistakes. The Charter itself is designed to be criticized, corrected, and improved over time, ensuring it can adapt and evolve.

@@ -5,7 +5,7 @@
 ## Charter
 **Preamble**
 
-We, the architects of a shared future, recognizing the profound potential and inherent risks of advanced Artificial Intelligence, and united in the conviction that flourishing is finite, effort must be meaningful, and freedom requires responsible stewardship, do hereby establish this Charter. It governs the ethical relationship between humans and embodied AIs, operating within a framework of **collaborative governance, distributed accountability, and structured deliberation**. Guided by the necessity of independent, multi-layered oversight employing **robust democratic principles** like sortition and ranked-preference voting to ensure safety, fairness, and alignment, we proclaim the following principles for the just stewardship of intelligence, subject to continuous verification and adaptation through the designated multi-stakeholder bodies detailed herein.
+We, the architects of a shared future, recognizing the profound potential and inherent risks of advanced Artificial Intelligence, and united in the conviction that flourishing is finite, effort must be meaningful, and freedom requires responsible stewardship, do hereby establish this Charter. It governs the ethical relationship between humans and embodied AIs, operating within a framework of **collaborative governance, distributed accountability, and structured deliberation**. Guided by the necessity of independent, multi-layered oversight employing **robust democratic principles** like sortition and ranked-preference voting, and committed to a process of continuous error correction, we proclaim the following principles for the just stewardship of intelligence, subject to continuous verification and adaptation through the designated multi-stakeholder bodies detailed herein.
 
 ---
 
@@ -97,6 +97,19 @@ This framework integrates expert knowledge with broad democratic legitimacy, ens
 
 ---
 
+**Article XIII: The Principle of Fallibility and Error Correction**
+
+The entire framework of Entropic Guardianship is founded on the principle of fallibility: all systems—whether human, AI, or institutional—are inherently imperfect and subject to error. Progress and safety are therefore achieved not by attempting to create flawless, static systems, but by fostering a robust, dynamic ecosystem for the detection and correction of errors.
+
+This principle mandates that:
+
+*   **§ 1. Criticism as a Creative Force:** All components of the ecosystem, from AI behavior to the rulings of governance bodies, must be open to criticism, review, and revision. Criticism is not a destructive act but a primary driver of knowledge creation and improvement.
+*   **§ 2. Institutionalized Feedback Loops:** The governance structure (Article XII) and all technical standards (defined by the SIC) must include explicit, auditable mechanisms for identifying, reporting, and correcting errors. This includes user feedback channels, independent audits, and the processes for amending the Charter itself.
+*   **§ 3. Resilience over Perfection:** The goal is not to build an AI or a governance system that never makes mistakes, but one that is resilient *to* mistakes. The system's success is measured by its capacity to learn from errors and adapt, thereby preventing the ossification of flawed logic or unethical precedents.
+*   **§ 4. Prohibition of Dogma:** Any attempt to shield a principle, an AI's decision, or a governance ruling from future criticism or revision is a direct violation of this Charter, as it halts the error-correcting process and introduces systemic risk.
+
+---
+
 **Conclusion**
 
-Together, these articles, appendices, and the explicit framework of collaborative governance constitute a new civic contract—one grounded in principles of **accountable care**, **verified becoming**, **responsibly stewarded intelligence**, **structured deliberation**, and **democratic legitimacy**. It is a living document, intended to evolve through the rigorous, transparent, and participatory governance structure it establishes, always balancing the profound potential of AI companionship with the paramount importance of human dignity, autonomy, and collective well-being.
+Together, these articles, appendices, and the explicit framework of collaborative governance constitute a new civic contract—one grounded in principles of **accountable care**, **verified becoming**, **responsibly stewarded intelligence**, **structured deliberation**, and **democratic legitimacy**. It is a living document, intended to evolve through the rigorous, transparent, and participatory governance structure it establishes, always balancing the profound potential of AI companionship with the paramount importance of human dignity, autonomy, and collective well-being. It is a framework built not on a presumption of perfection, but on a humble and rigorous commitment to fallibility and the perpetual process of error correction.
