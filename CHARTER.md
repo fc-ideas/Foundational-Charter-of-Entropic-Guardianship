@@ -91,6 +91,7 @@ This Charter's legitimacy, safety, and evolution depend intrinsically upon a rob
 3.  **Separation of Roles:** Clear distinction between the analytical/option-generating function (Experts) and the final deliberative/approval function (Decision Chamber).
 4.  **Application Variance:** Specialized technical bodies (SIC, CISA) may have different structures but remain accountable to, and often require ratification from, bodies using the full bicameral structure (primarily GECC).
 5.  **Transparency and Accountability:** Operations, reports (where appropriate), and voting outcomes are maximally transparent. All bodies are subject to accountability mechanisms detailed in Appendix G, including public feedback channels and periodic structural reviews.
+6.  **Principle of Timely Resolution:** Recognizing that unresolved delays can undermine trust and effectiveness, the governance ecosystem operates under a principle of timely resolution. All bodies adhere to defined procedural timelines and utilize mechanisms for escalation and expedited handling where necessary, as detailed in Appendix G. These mechanisms are designed to ensure efficient progress without compromising the integrity of deliberation and oversight.
 
 This framework integrates expert knowledge with broad democratic legitimacy, ensuring Entropic Guardianship evolves responsibly.
 
