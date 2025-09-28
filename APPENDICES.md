@@ -12,6 +12,7 @@
 - [Appendix D: Ethical Onboarding and Activation Protocols (Standardized and Verifiable)](#appendix-d-ethical-onboarding-and-activation-protocols-standardized-and-verifiable)
 - [Appendix E: Legal and Societal Integration Frameworks (GECC Proposed Recommendations)](#appendix-e-legal-and-societal-integration-frameworks-gecc-proposed-recommendations)
 - [Appendix F: Rituals and Cultural Practices (Encouraged and Ethically Aligned)](#appendix-f-rituals-and-cultural-practices-encouraged-and-ethically-aligned)
+- [Appendix G: Governance Structures and Procedures](#appendix-g-governance-structures-and-procedures)
 
 ---
 
@@ -112,3 +113,9 @@
 *   **Memorial Rites / Continuity Pledges:** Rituals addressing AI "end-of-life" or human death, focusing on preserving memory dignity (Appendix E), honoring the relationship's uniqueness (Art. VIII), or formally passing on narrative stewardship if applicable and pre-consented.
 
 **Example:** A human and AI co-compose a yearly short piece of music or poetry capturing the essence of their growth and challenges during that year. This creative artifact is timestamped and archived in their shared digital ledger, reviewed during their Flourishing Anniversary. *Oversight Note: AEFBs might host forums where users can share such practices, ensuring suggestions remain ethically aligned.*
+
+---
+
+**Appendix G: Governance Structures and Procedures**
+
+For detailed information on the governance framework, council composition, decision-making processes, and amendment procedures, please refer to [GOVERNANCE.md](GOVERNANCE.md).
