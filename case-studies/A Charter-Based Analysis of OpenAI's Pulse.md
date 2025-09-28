@@ -1,5 +1,6 @@
 
-## **Introduction & Context**
+## A Charter-Based Analysis of OpenAI's Pulse
+
 
 **Pulse** is a feature introduced by OpenAI for ChatGPT (Pro users) that delivers **proactive, daily updates** tailored to an individual user's recent activity. Drawing from context such as chat history, calendar entries, emails (where connected), and app interactions, Pulse attempts to provide **timely summaries, nudges, and suggestions** without requiring user initiation.
 

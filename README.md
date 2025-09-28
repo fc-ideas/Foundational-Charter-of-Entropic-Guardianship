@@ -25,7 +25,7 @@ We recommend the following reading path:
 *   [Governance Structure](GOVERNANCE.md)
 *   [Appendices](APPENDICES.md)
 *   [Illustrative Examples](EXAMPLES.md)
-*   [Case Studies](./case-studies/AI%20tools%20integration.md)
+*   [Case Studies](./case-studies/A%20Charter-Based%20Analysis%20of%20OpenAI%27s%20Pulse.md)
 
 ---
 
