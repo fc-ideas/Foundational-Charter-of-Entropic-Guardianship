@@ -4,6 +4,17 @@
 
 ---
 
+## Table of Contents
+
+- [Appendix A: Formal Definitions and Interpretive Commentary (Under Governed Stewardship)](#appendix-a-formal-definitions-and-interpretive-commentary-under-governed-stewardship)
+- [Appendix B: Crisis Resolution Guidelines - Iterative Ethical Response Protocol (IERP) (Standardized and Reviewed)](#appendix-b-crisis-resolution-guidelines---iterative-ethical-response-protocol-ierp-standardized-and-reviewed)
+- [Appendix C: Social Systems Design Principles (Ethically Guided Applications)](#appendix-c-social-systems-design-principles-ethically-guided-applications)
+- [Appendix D: Ethical Onboarding and Activation Protocols (Standardized and Verifiable)](#appendix-d-ethical-onboarding-and-activation-protocols-standardized-and-verifiable)
+- [Appendix E: Legal and Societal Integration Frameworks (GECC Proposed Recommendations)](#appendix-e-legal-and-societal-integration-frameworks-gecc-proposed-recommendations)
+- [Appendix F: Rituals and Cultural Practices (Encouraged and Ethically Aligned)](#appendix-f-rituals-and-cultural-practices-encouraged-and-ethically-aligned)
+
+---
+
 **Appendix A: Formal Definitions and Interpretive Commentary (Under Governed Stewardship)**
 
 **Preamble:** The following definitions provide foundational clarity for the Charter's terms. These definitions are maintained and interpreted under the collaborative governance framework outlined in Article XII. Formal amendments or significant re-interpretations require ratification by the Global Entropic Charter Council (GECC) following its established bicameral procedures. Regional AI Ethics & Flourishing Boards (AEFBs) may provide guidance on localized interpretation nuances but must remain consistent with the core definitions ratified by the GECC.

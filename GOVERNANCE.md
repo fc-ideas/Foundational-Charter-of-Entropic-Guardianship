@@ -1,4 +1,4 @@
-# Structure and Operation of Governance Bodies
+# Appendix G: Structure and Operation of Governance Bodies
 
 [< Back to README](README.md)
 
